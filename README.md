@@ -1,14 +1,36 @@
-- 👋 Hi, I’m @nyxarf
-- 👀 I’m interested in a lot many technical and non-technical stuff. However I'd stick to speaking about my technical interests only since it's github, and it isn't rare for me to ramble about my non-technical interests, so here it is:
-- -AI, ML, Data Analytics, CS, some robotics too!
-- -languages: Java, C, C++, Python, JavaScript, R, SQL
-- 🌱 I’m currently learning everything that I've mentioned about, and much more. Aren't we all always learning?
-- 💞️ I’m looking to collaborate on both frontend and backend related projects :-)
-- 📫 How to reach me: wait can't we do that here itself?
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i eat chocolate when i can't solve a problem, and the problem solves itself sooner.
+# Hi there, I'm Arfa Ahmed Ansari   
+ **Aspiring Software Engineer | Tech Enthusiast | Lifelong Learner and Innovator**  
 
-- ACCOUNT WILL SOON SEE A PROFESSIONAL TURN :-(
+Welcome to my GitHub! I’m passionate about building impactful software, exploring innovative technologies, and continuously growing as a developer.  
+
+## 🔹 About Me
+-  IT student at **Maulana Abul Kalam Azad University of Technology (MAKAUT)**  
+-  Currently exploring **Web Development, Data Structures & Algorithms, and AI/ML integrations**  
+-  Building projects that combine creativity, problem-solving, and real-world impact  
+-  Inspired by **motorsport mindset** – precision, speed, and adaptability  
+
+---
+
+## 🔹 Skills & Tools
+**Languages:** C, C++, Python, JavaScript, SQL  
+**Frameworks & Libraries:** React, Node.js, Express, OpenCV, TailwindCSS  
+**Databases:** MySQL, MongoDB  
+**Other Tools:** Git/GitHub, VS Code, Linux, Figma  
+
+---
+
+## 🔹 Featured Projects
+🔹 **Mela** – An e-commerce platform celebrating Indian rural & traditional arts  
+🔹 **REPORT-PORTAL** – A project for City Police. Details not disclosed.  
+🔹 **Watchout** – Currently being patented
+🔹 **Eventure** – Event management platform (academic project)  
+
+
+## 🔹 Let’s Connect!
+- 📧 Email: **arfaahmedansari@gmail.com**  
+- 💼 [LinkedIn] https://www.linkedin.com/in/arfa-ahmed-ansari-032047289/
+
+
 
 <!---
 nyxarf/nyxarf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
